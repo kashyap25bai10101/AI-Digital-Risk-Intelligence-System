@@ -75,7 +75,7 @@ AI-Digital-Risk-System/
 
 Clone the repository:
 
-git clone https://github.com/your-username/AI-Digital-Risk-System.git
+git clone [https://github.com/your-username/AI-Digital-Risk-System.git](https://github.com/kashyap25bai10101/AI-Digital-Risk-Intelligence-System)
 
 Navigate to the project directory:
 
