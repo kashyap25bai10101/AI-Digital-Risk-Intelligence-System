@@ -1,0 +1,11 @@
+password_reuse,public_wifi,click_links,social_media,two_fa,risk
+1,1,1,1,0,High
+1,0,1,1,0,High
+0,1,1,0,0,Medium
+0,0,0,0,1,Low
+1,1,0,1,0,High
+0,1,0,0,1,Medium
+0,0,1,1,0,Medium
+0,0,0,1,1,Low
+1,0,1,0,0,High
+0,1,0,1,1,Medium
