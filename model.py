@@ -1,3 +1,5 @@
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
 def train_model():
